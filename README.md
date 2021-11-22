@@ -18,6 +18,12 @@ CPU only:
 
 Install simpletransformers. pip install simpletransformers
 
+For running demo 
+
+Install streamlit 
+
+pip3 install streamlit
+
 ## How to run 
 
 Naviagate to src folder.
@@ -25,3 +31,7 @@ Naviagate to src folder.
 To run a model
 
 -- python srcfilename.py
+
+To run demo
+
+-- python demo.py
